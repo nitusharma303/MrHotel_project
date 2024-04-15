@@ -1,0 +1,119 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    border: border-box;
+}
+
+#Aboutpage {
+    border-top: 1px solid black;
+    height: 88vh;
+    padding-top: 12vh;
+}
+
+.Aboutright {
+    padding-top: 13vh;
+}
+
+.Aboutleft h1 {
+    padding-left: 4vh;
+    color: #6F6F8C;
+    font-size: 48px;
+    margin-bottom: 38px;
+    font-family: 'Aladin', cursive;
+}
+
+.aboutpra {
+    padding-left: 2vh;
+}
+
+.Aboutleft p {
+    color: #737373;
+    font-size: 16px;
+}
+
+.Aboutleft h3 {
+    color: #e9a820 !important;
+    font-family: 'Aladin', cursive;
+    padding-left: 2vh;
+    font-size: 25px;
+}
+
+.Aboutleft h4 {
+    font-family: 'Aladin', cursive;
+    font-size: 23px;
+}
+
+.aboutkeybox {
+    padding-top: 4vh;
+}
+
+
+/* About section 2nd section */
+
+.our_advantage {
+    background-image: url(hotel/ab-bann.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+}
+
+.box2ndheading {
+    color: white;
+    padding-top: 35px;
+    padding-bottom: 25px;
+    font-family: 'Aladin', cursive;
+    font-size: 45px;
+    text-align: center;
+}
+
+
+/* aboutbox3 code */
+
+.abbox3 {
+    background-color: #e9a920bf !important;
+    width: 100%;
+    height: 37vh;
+    text-align: center;
+    padding-top: 18px;
+    border: 8px solid #6F6F8C;
+    border-radius: 2%;
+    color: white;
+}
+
+.abbox3 h1 {
+    font-family: 'Aladin', cursive;
+}
+
+.abbox3 h2 {
+    font-family: 'Aladin', cursive;
+    font-size: 25px;
+}
+
+.abbox3 p {
+    text-align: center;
+    padding: 12px;
+}
+
+.abbox3:hover {
+    background-color: #6f6f8c86 !important;
+}
+
+
+/* ourchef section code start here */
+
+#ourchef {
+    height: 80vh;
+    text-align: center;
+}
+
+.ourchef h1 {
+    padding: 30px 0px;
+    font-family: 'Aladin', cursive;
+    text-align: center;
+    font-size: 45px;
+}
+
+.chefbackground img {
+    border-radius: 50%;
+    border: 19px solid rgba(30, 22, 22, 0.152);
+}
